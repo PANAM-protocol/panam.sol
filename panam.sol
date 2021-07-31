@@ -901,9 +901,7 @@
           _takeLiquidity(tLiquidity);
           _reflectFee(rFee, tFee);
           emit Transfer(sender, recipient, tTransferAmount);
-      }
-     
-  
+      } 
   }
  
 
